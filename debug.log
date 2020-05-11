@@ -1,0 +1,3 @@
+[0508/223554.988:ERROR:file_io_win.cc(161)] CreateFile C:\Users\MIGUEL~1.VAL\AppData\Local\Temp\scoped_dir8560_2087863859\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[0508/223554.989:ERROR:file_io_win.cc(170)] CreateFile C:\Users\MIGUEL~1.VAL\AppData\Local\Temp\scoped_dir8560_2087863859\Crashpad\reports\d89b3c9b-9e3c-4c41-9e88-c952090f7185.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[0508/223554.989:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
